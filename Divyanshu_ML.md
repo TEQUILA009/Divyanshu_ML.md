@@ -1,5 +1,5 @@
 # Machine Learning Topics
-``` html
+``` 
 Data Preprocessing
 Regression
 Classification
@@ -10,7 +10,7 @@ Boosting ALgorithms
 Dimensionality Redcution
 ```
 # Deep Learning Topics
-``` html
+``` 
 Stochastic Gradient Descent
 Backpropagation
 Artificial Neural Network
