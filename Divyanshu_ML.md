@@ -9,7 +9,7 @@ Reinforcement Learning
 Boosting ALgorithms
 Dimensionality Redcution
 ```
-# Deep Learning
+# Deep Learning Topics
 ``` html
 Stochastic Gradient Descent
 Backpropagation
